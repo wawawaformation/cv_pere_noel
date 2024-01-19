@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #d33;
+    background: rgb(10, 110, 6);
     color: white;
     padding: 20px;
     text-align: center;
@@ -24,7 +24,7 @@ section {
 }
 
 h2 {
-    color: #d33;
+    color: rgb(10, 110, 6);
 }
 
 img {
